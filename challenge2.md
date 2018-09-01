@@ -13,7 +13,7 @@ This block quote is from Wikipedia
 [Link to READ.ME](README.md)
 
 
-![Mizzou logo](Challenge 2/mizzou-logo.jpg)
+![Mizzou logo](mizzou-logo.jpg)
 
 [Link to Online Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQOdH7TgvF6C3M-u8ls42YIJlx2Uf248x6FCTSEsSN_WjKbnX)
 
